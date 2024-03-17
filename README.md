@@ -5,5 +5,5 @@ Ez a repo a CI CD környezetek megismerésére jött létre. Ennek segítségév
 
 [![Actions Status](https://github.com/desertkido/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/desertkido/cicd/actions)
 
-[Internal link](https://github.com/desertkid/cicd/releases/tag/latest)
+[Latest Release](https://github.com/desertkido/cicd/releases/tag/latest)
 
